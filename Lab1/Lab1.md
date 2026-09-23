@@ -107,6 +107,11 @@ Analyze → Enabled Protocols
 Submit:
 
 - A screenshot showing that the OAI-5G profile is selected. — 3 points
+
+
+
+
+
 - A screenshot showing the opened capture. — 2 points
 - A screenshot showing NR RRC packets after applying `nr-rrc`. — 5 points
 
